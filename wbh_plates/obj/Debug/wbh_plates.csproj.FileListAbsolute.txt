@@ -1,0 +1,41 @@
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\bin\Debug\wbh_plates.exe.config
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\bin\Debug\wbh_plates.exe
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\bin\Debug\wbh_plates.pdb
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.csproj.AssemblyReference.cache
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.Properties.Resources.resources
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.csproj.GenerateResource.cache
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.csproj.CoreCompileInputs.cache
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.exe
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.pdb
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.frmPlates.resources
+C:\Users\engYasir\source\repos\wbh_plates\wbh_plates\obj\Debug\wbh_plates.frmSaacadaha.resources
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.csproj.AssemblyReference.cache
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.frmDashboard.resources
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.frmLogin.resources
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.Properties.Resources.resources
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.uPlates.resources
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.uRefLora.resources
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.csproj.GenerateResource.cache
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.csproj.CoreCompileInputs.cache
+E:\Project\wbh miniSystem\wbh_plates\bin\Debug\wbh_plates.exe.config
+E:\Project\wbh miniSystem\wbh_plates\bin\Debug\wbh_plates.exe
+E:\Project\wbh miniSystem\wbh_plates\bin\Debug\wbh_plates.pdb
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.exe
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.pdb
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.uMReaders.resources
+E:\Project\wbh miniSystem\wbh_plates\obj\Debug\wbh_plates.uRFM.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\bin\Debug\wbh_plates.exe.config
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\bin\Debug\wbh_plates.exe
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\bin\Debug\wbh_plates.pdb
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.csproj.AssemblyReference.cache
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.frmDashboard.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.frmLogin.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.Properties.Resources.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.uMReaders.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.uRFM.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.uPlates.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.uRefLora.resources
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.csproj.GenerateResource.cache
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.csproj.CoreCompileInputs.cache
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.exe
+D:\Software Development\wbh miniSystem - V1.1\wbh_plates\obj\Debug\wbh_plates.pdb

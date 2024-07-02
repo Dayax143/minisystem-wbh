@@ -1,0 +1,55 @@
+create database wbh_minisystem;
+use wbh_minisystem;
+
+create table tblRFMs(
+rfm_id int primary key identity(1,1),
+rfm_mac varchar(20),
+status varchar(10),
+date datetime
+);
+
+create table tblMReaders(
+m_id int primary key identity(1,1),
+mReader_name varchar(30),
+rfm_id int foreign key references tblRFMs (rfm_id),
+reading_area varchar(10),
+phone_number varchar(20),
+date datetime
+);
+
+create table tblPlates(
+plate_id int primary key identity(1,1),
+cor_supply varchar(20),
+status varchar(10),
+refference varchar(30),
+date datetime
+);
+
+create table tblLora(
+lora_id int primary key identity(1,1),
+cor_supply varchar(20),
+lora_serial varchar(20),
+receipt_rv varchar(20),
+status varchar(15),
+refference varchar(20),
+date datetime
+);
+
+create table tblUser(
+user_id int primary key identity(1,1),
+userName varchar(20),
+passWord varchar(30),
+usertype varchar(30),
+recoveryQuestion varchar(100),
+recoveryAnswer varchar(100),
+userStatus varchar(10),
+);
+
+create table tixraac(
+tix_id int primary key identity(1,1)
+);
+
+create table tblTarep (
+tarep_id int primary key identity(1,1),
+
+);

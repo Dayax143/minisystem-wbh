@@ -1,0 +1,12 @@
+RFM Manager
+
+
+> write the name of the mreader or the MAC address of the RFM device
+
+> show the status of the RFM device, the name of the assigned mreader
+
+> show a button (take or repeat) which updates the status of the mreader, and inserts the record contains the (taken date, mreader name, the device MAC & the status of the device) + the user who've done this process.
+
+> plates ( add a feature which saves the multiple plates such (range - to enter the range of the plates, the supply area is already added into supply column)
+
+> 

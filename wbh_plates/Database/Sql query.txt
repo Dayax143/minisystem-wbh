@@ -1,0 +1,8 @@
+BACKUP DATABASE k
+TO DISK = 'E:\YourBackupFile.bak'
+WITH FORMAT;
+
+
+RESTORE DATABASE YourDatabaseName
+FROM DISK = 'C:\Path\To\YourBackupFile.bak'
+WITH REPLACE;
