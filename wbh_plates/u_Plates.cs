@@ -16,7 +16,7 @@ namespace wbh_plates
     {
 
         string query;
-        SqlConnection con = new SqlConnection("data source= Esmail; database= wbh_minisystem; integrated security=true");
+        SqlConnection con = new SqlConnection("data source= DESKTOP-MQGUVVP; database= wbh_minisystem; integrated security=true");
 
         string status;
 

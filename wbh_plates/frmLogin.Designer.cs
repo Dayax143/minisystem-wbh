@@ -139,7 +139,7 @@
             // 
             // btnLogin
             // 
-            this.btnLogin.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnLogin.BackColor = System.Drawing.Color.LightSlateGray;
             this.btnLogin.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnLogin.Font = new System.Drawing.Font("Courier New", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLogin.ForeColor = System.Drawing.Color.White;
@@ -154,7 +154,7 @@
             // 
             // clearbtn
             // 
-            this.clearbtn.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.clearbtn.BackColor = System.Drawing.Color.LightSlateGray;
             this.clearbtn.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.clearbtn.Font = new System.Drawing.Font("Courier New", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.clearbtn.ForeColor = System.Drawing.Color.White;
@@ -306,7 +306,7 @@
             this.rdbEmployee.AutoSize = true;
             this.rdbEmployee.Font = new System.Drawing.Font("Courier New", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rdbEmployee.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.rdbEmployee.Location = new System.Drawing.Point(215, 69);
+            this.rdbEmployee.Location = new System.Drawing.Point(234, 70);
             this.rdbEmployee.Name = "rdbEmployee";
             this.rdbEmployee.Size = new System.Drawing.Size(62, 21);
             this.rdbEmployee.TabIndex = 16;
@@ -318,7 +318,7 @@
             this.rdbAdminstrator.AutoSize = true;
             this.rdbAdminstrator.Font = new System.Drawing.Font("Courier New", 11F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.rdbAdminstrator.ImeMode = System.Windows.Forms.ImeMode.NoControl;
-            this.rdbAdminstrator.Location = new System.Drawing.Point(65, 69);
+            this.rdbAdminstrator.Location = new System.Drawing.Point(84, 70);
             this.rdbAdminstrator.Name = "rdbAdminstrator";
             this.rdbAdminstrator.Size = new System.Drawing.Size(71, 21);
             this.rdbAdminstrator.TabIndex = 15;
